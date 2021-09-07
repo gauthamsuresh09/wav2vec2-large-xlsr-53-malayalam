@@ -10,4 +10,4 @@ This repository contains the code for [Wav2vec2 Large XLSR 53](https://huggingfa
 The datasets needs to be converted to format suitable for Hugging Face Datasets library. This can be done using the notebook provided [here](make_hf_dataset.ipynb).
 
 ## Fine-tuning
-The model can be fine-tuned using [this notebook](fine-tune-xlsr-wav2vec2-on-malayalam-asr-with-transformers).
+The model can be fine-tuned using [this notebook](fine-tune-xlsr-wav2vec2-on-malayalam-asr-with-transformers.ipynb). Additional details on the fine-tuning procedure is given in the notebook itself.
